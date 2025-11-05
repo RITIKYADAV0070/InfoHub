@@ -1,27 +1,27 @@
 📚 Info Hub
 
 A modern and responsive information portal built using React, TypeScript, Vite, Tailwind CSS, and shadcn-ui.
-The project focuses on providing a clean, fast, and easily extensible frontend setup for creating interactive web dashboards or knowledge hubs.
+It’s designed to be fast, clean, and scalable — perfect for showcasing structured content, dashboards, or general-purpose knowledge platforms.
 
-🌐 Live Demo
+🌐 Live Project
 
-👉 Visit Info Hub
+👉 Check it out here: https://info-hub-gules.vercel.app/
 
 ⚙️ Tech Stack
 
-⚡ Vite – Ultra-fast frontend tooling and dev server
+⚡ Vite – Lightning-fast frontend build tool
 
-🧠 TypeScript – Strongly typed JavaScript for cleaner, scalable code
+🧠 TypeScript – Strong typing for robust, maintainable code
 
-⚛️ React – Component-based UI framework
+⚛️ React – Component-driven UI framework
 
-🎨 Tailwind CSS – Utility-first CSS framework for rapid UI development
+🎨 Tailwind CSS – Utility-first styling for rapid UI development
 
-🧩 shadcn-ui – Beautiful, accessible, and reusable UI components
+🧩 shadcn-ui – Pre-built accessible UI components
 
 🚀 Getting Started
 
-Follow these simple steps to run the project locally:
+Follow these steps to run the project locally:
 
 1️⃣ Clone the Repository
 git clone <YOUR_REPOSITORY_URL>
@@ -31,7 +31,7 @@ cd info-hub
 
 3️⃣ Install Dependencies
 
-Make sure you have Node.js and npm installed.
+Ensure you have Node.js and npm installed.
 
 npm install
 
@@ -39,27 +39,27 @@ npm install
 npm run dev
 
 
-Your project will now be available at http://localhost:5173/
- (or the port shown in your terminal).
+Then open http://localhost:5173
+ in your browser.
 
-🛠 Folder Structure
+🧭 Folder Structure
 info-hub/
 ├── src/
 │   ├── components/     # Reusable UI components
 │   ├── pages/          # Application pages
 │   ├── assets/         # Images, icons, etc.
-│   ├── styles/         # Global styles
+│   ├── styles/         # Global styling
 │   ├── App.tsx         # Root component
 │   └── main.tsx        # Entry point
-├── public/             # Static assets
+├── public/             # Static files
 ├── package.json
 └── vite.config.ts
 
 🌍 Deployment
 
-This project is optimized for easy deployment on platforms like Vercel, Netlify, or any other static hosting service.
+This project is fully compatible with Vercel, Netlify, and similar hosting platforms.
 
-To deploy on Vercel, for example:
+To deploy:
 
 Push your code to GitHub.
 
@@ -68,27 +68,17 @@ Go to Vercel
 
 Import your repository.
 
-Click Deploy — your site will be live in seconds!
+Click Deploy — and your site will be live!
 
-🔗 Custom Domain Setup
+💡 Future Enhancements
 
-If you want to connect your own custom domain:
+Integrate backend APIs for dynamic data
 
-Go to your hosting platform’s Domain Settings.
+Add authentication (Login/Signup)
 
-Add your domain and follow the DNS configuration steps.
+Include dark mode toggle
 
-Once DNS is propagated, your custom domain will point to the deployed site.
-
-💡 Future Improvements
-
-Add authentication and user profiles
-
-Integrate a database or CMS
-
-Enhance SEO and accessibility
-
-Include light/dark mode toggle
+Improve SEO and accessibility
 
 👨‍💻 Author
 
