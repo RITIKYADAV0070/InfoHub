@@ -2,15 +2,13 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/c64f9557-3cea-4661-b889-9fb4e14bd4cb
+**URL**: https://info-hub-gules.vercel.app/
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
 **Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/c64f9557-3cea-4661-b889-9fb4e14bd4cb) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
