@@ -1,0 +1,10 @@
+project_id = "pzjlutatikwxwaebmxgi"
+
+[functions.get-weather]
+verify_jwt = false
+
+[functions.convert-currency]
+verify_jwt = false
+
+[functions.get-quote]
+verify_jwt = false
